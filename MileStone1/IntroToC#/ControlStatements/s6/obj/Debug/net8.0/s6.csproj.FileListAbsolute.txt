@@ -1,0 +1,14 @@
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\bin\Debug\net8.0\s6.exe
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\bin\Debug\net8.0\s6.deps.json
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\bin\Debug\net8.0\s6.runtimeconfig.json
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\bin\Debug\net8.0\s6.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\bin\Debug\net8.0\s6.pdb
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\s6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\s6.AssemblyInfoInputs.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\s6.AssemblyInfo.cs
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\s6.csproj.CoreCompileInputs.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\s6.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\refint\s6.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\s6.pdb
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\s6.genruntimeconfig.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s6\obj\Debug\net8.0\ref\s6.dll

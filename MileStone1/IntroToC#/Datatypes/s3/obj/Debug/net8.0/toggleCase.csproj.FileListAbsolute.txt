@@ -1,0 +1,14 @@
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\bin\Debug\net8.0\toggleCase.exe
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\bin\Debug\net8.0\toggleCase.deps.json
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\bin\Debug\net8.0\toggleCase.runtimeconfig.json
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\bin\Debug\net8.0\toggleCase.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\bin\Debug\net8.0\toggleCase.pdb
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\toggleCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\toggleCase.AssemblyInfoInputs.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\toggleCase.AssemblyInfo.cs
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\toggleCase.csproj.CoreCompileInputs.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\toggleCase.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\refint\toggleCase.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\toggleCase.pdb
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\toggleCase.genruntimeconfig.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\s3\obj\Debug\net8.0\ref\toggleCase.dll

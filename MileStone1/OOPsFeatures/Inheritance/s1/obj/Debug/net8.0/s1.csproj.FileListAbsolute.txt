@@ -1,0 +1,14 @@
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\bin\Debug\net8.0\s1.exe
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\bin\Debug\net8.0\s1.deps.json
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\bin\Debug\net8.0\s1.runtimeconfig.json
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\bin\Debug\net8.0\s1.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\bin\Debug\net8.0\s1.pdb
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\s1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\s1.AssemblyInfoInputs.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\s1.AssemblyInfo.cs
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\s1.csproj.CoreCompileInputs.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\s1.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\refint\s1.dll
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\s1.pdb
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\s1.genruntimeconfig.cache
+C:\Users\mohdz\Desktop\DotNetTraining\MileStone1\OOPsFeatures\s1\obj\Debug\net8.0\ref\s1.dll
