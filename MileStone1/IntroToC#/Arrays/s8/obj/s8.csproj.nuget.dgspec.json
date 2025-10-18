@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\s8\\s8.csproj": {}
+    "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\IntroToC#\\Arrays\\s8\\s8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\s8\\s8.csproj": {
+    "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\IntroToC#\\Arrays\\s8\\s8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\s8\\s8.csproj",
+        "projectUniqueName": "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\IntroToC#\\Arrays\\s8\\s8.csproj",
         "projectName": "s8",
-        "projectPath": "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\s8\\s8.csproj",
+        "projectPath": "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\IntroToC#\\Arrays\\s8\\s8.csproj",
         "packagesPath": "C:\\Users\\mohdz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\s8\\obj\\",
+        "outputPath": "C:\\Users\\mohdz\\Desktop\\DotNetTraining\\MileStone1\\IntroToC#\\Arrays\\s8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohdz\\AppData\\Roaming\\NuGet\\NuGet.Config"
